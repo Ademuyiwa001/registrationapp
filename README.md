@@ -1,6 +1,6 @@
-# authenticate
+# Registration App System
 Note: Make sure to install the latest node packages, Mongodb and Robo3t software to launch this application
-This is a Simple registration management Sytem with the essential security features enabled
+This is a Simple registration management System with the essential security features enabled
 Register with an email and password.
 
 Instructions:
